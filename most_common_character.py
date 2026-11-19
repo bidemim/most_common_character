@@ -49,3 +49,6 @@ if __name__ == "__main__":
 
     third_string = "abc"
     print(most_common_character(third_string))
+
+    empty_string = ""
+    print(most_common_character(empty_string))
